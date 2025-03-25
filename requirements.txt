@@ -2,8 +2,8 @@ pillow
 transformers
 
 streamlit
-numpy
-cv2
+
+
 torch
 ultralytics
 opencv-python-headless
