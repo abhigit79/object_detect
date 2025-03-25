@@ -1,6 +1,6 @@
 pillow
 transformers
-sqlite3
+
 streamlit
 numpy
 cv2
