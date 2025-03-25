@@ -1,8 +1,9 @@
 pillow
-transofrmers
+transformers
 sqlite3
 streamlit
 numpy
 cv2
 torch
 ultralytics
+opencv-python-headless
