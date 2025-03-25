@@ -1,0 +1,8 @@
+PIL
+transofrmers
+sqlite3
+streamlit
+numpy
+cv2
+torch
+ultralytics
